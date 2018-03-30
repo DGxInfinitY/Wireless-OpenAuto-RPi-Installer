@@ -1,2 +1,4 @@
 # Wireless-OpenAuto-RPi-Installer
-Simple Script to compile and build wireless OpenAuto on Raspberry Pi
+
+This simple script is designed to compile the Wireless version of OpenAuto and install it.
+A big thanks goes to novaspirit on creating the original script to compile and install the regular master branch of openauto on the raspberry pi.
